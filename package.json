@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@microsoft/signalr": "^6.0.8",
+    "bootstrap": "^5.2.0",
+    "bootstrap-css": "^4.0.0-alpha.5",
+    "jquery": "^3.6.0"
+  }
+}
